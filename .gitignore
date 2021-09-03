@@ -1,0 +1,6 @@
+# ignore tudo
+*
+# excluir dubdiretórios
+!/**/
+# excluir arquivos com extensão
+!*.*
